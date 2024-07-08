@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.backend_color{
+    background-image:linear-gradient(rgb(1 9 100 / 82%), rgb(68 7 126 / 61%));
+}
