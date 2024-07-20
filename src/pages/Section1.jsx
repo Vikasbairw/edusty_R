@@ -2,7 +2,7 @@ function Section1() {
     return (
         <>
             <div className=" m-[40px]">
-                <div className=" flex flex-col justify-center items-center row-span-2 ">
+                <div className=" flex flex-col justify-center items-center row-span-2 " id="programe">
                     <h3 className="text-[#212ea0]">OUR PROGRAM</h3>
                     <h1 className="text-[40px] mb-[40px] font-bold text-[#3443]">What We Offer</h1>
                 </div>

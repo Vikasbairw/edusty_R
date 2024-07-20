@@ -40,7 +40,7 @@ function toastfy(result){
 }
     return (
         <>
-            <div className=" flex flex-col justify-center items-center">
+            <div className=" flex flex-col justify-center items-center" id="contact">
                 <h3 className="text-[#212ea0]">CONTACT US</h3>
                 <h1 className="font-bold text-[36px]">Get in Touch</h1>
             </div>

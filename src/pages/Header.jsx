@@ -37,12 +37,12 @@ function Header() {
                                     <img src="./image/logo.png" alt="" />
                                 </div>
                                 <div className="list-none flex  lg:gap-[40px] hidden md:flex gap-3  text-[16px] text-white font-[500] items-center">
-                                    <li className="cursor-pointer">Home</li>
-                                    <li className="cursor-pointer">Programe</li>
-                                    <li className="cursor-pointer">About Us</li>
-                                    <li className="cursor-pointer">Company</li>
-                                    <li className="cursor-pointer">Testimonails</li>
-                                    <li className="bg-white btn cursor-pointer text-black py-[14px] px-[25px] rounded-[30px]">Contact Us</li>
+                                    <li className="cursor-pointer"> <a href="#">Home</a></li>
+                                    <li className="cursor-pointer"><a href="#programe">Programe</a></li>
+                                    <li className="cursor-pointer"> <a href="#about">About Us</a></li>
+                                    <li className="cursor-pointer"> <a href="#company">Company</a></li>
+                                    <li className="cursor-pointer"> <a href="#testimonails">Testimonails</a></li>
+                                    <li className="bg-white btn cursor-pointer text-black py-[14px] px-[25px] rounded-[30px]"><a href="#contact">Contact Us</a></li>
                                 </div>
                                 <div className="md:hidden flex justify-center items-center w-[50px] h-[40px] bg-[#6c6aab63] rounded-[15px] text-[25px] "><RiMenu2Fill/></div>
                             </div>

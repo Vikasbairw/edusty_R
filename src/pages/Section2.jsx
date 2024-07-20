@@ -1,7 +1,7 @@
 function Section2() {
     return (
         <>
-            <div className="m-[50px]">
+            <div className="m-[50px]" id="about">
 
                 <div className="flex sm:flex-row flex-col gap-[30px]">
 

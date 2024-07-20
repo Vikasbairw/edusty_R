@@ -3,7 +3,7 @@ import { FaArrowRightLong } from "react-icons/fa6";
 function Section3(){
     return(
         <>
-        <div className="  grid grid-cols-2 sm:grid-cols-4 gap-[25px] m-3">
+        <div className="  grid grid-cols-2 sm:grid-cols-4 gap-[25px] m-3" id="company">
             <div className=" border  rounded-[20px] overflow-hidden">
                 <img src="./image/gallery-1.png" alt="" />
             </div>
